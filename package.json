@@ -2,6 +2,7 @@
   "name": "expo-crypto-argon2",
   "version": "0.0.0",
   "description": "Argon2id key derivation function for React Native via Expo Modules",
+  "license": "MIT",
   "main": "build/index.js",
   "module": "build/index.js",
   "types": "build/index.d.ts",
@@ -27,8 +28,12 @@
     "build": "tsc"
   },
   "peerDependencies": {
-    "expo": ">=51.0.0",
-    "expo-modules-core": ">=1.12.0"
+    "expo": ">=51.x",
+    "expo-modules-core": ">=1.x"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.11",
+    "typescript": "^5.1.3"
   },
   "keywords": [
     "react-native",
@@ -39,9 +44,12 @@
     "kdf",
     "key-derivation"
   ],
-  "license": "MIT",
-  "devDependencies": {
-    "@biomejs/biome": "^2.4.11",
-    "typescript": "^5.1.3"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svile/expo-crypto-argon2"
+  },
+  "bugs": {
+    "url": "https://github.com/svile/expo-crypto-argon2/issues"
+  },
+  "homepage": "https://github.com/svile/expo-crypto-argon2/"
 }
