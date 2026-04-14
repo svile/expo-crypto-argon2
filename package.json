@@ -1,6 +1,6 @@
 {
   "name": "expo-crypto-argon2",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Argon2id key derivation function for React Native via Expo Modules",
   "main": "build/index.js",
   "module": "build/index.js",
