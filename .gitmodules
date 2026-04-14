@@ -1,0 +1,3 @@
+[submodule "c-argon2"]
+	path = c-argon2
+	url = https://github.com/P-H-C/phc-winner-argon2
