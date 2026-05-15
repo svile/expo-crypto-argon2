@@ -43,10 +43,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/svile/expo-crypto-argon2"
+    "url": "https://github.com/inntend/expo-crypto-argon2"
   },
   "bugs": {
-    "url": "https://github.com/svile/expo-crypto-argon2/issues"
+    "url": "https://github.com/inntend/expo-crypto-argon2/issues"
   },
-  "homepage": "https://github.com/svile/expo-crypto-argon2/"
+  "homepage": "https://github.com/inntend/expo-crypto-argon2/"
 }

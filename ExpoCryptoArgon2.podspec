@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.version        = package['version']
   s.summary        = package['description']
   s.license        = { type: package['license'] }
-  s.homepage       = 'https://github.com/svile/expo-crypto-argon2'
+  s.homepage       = 'https://github.com/inntend/expo-crypto-argon2'
   s.authors        = 'expo-crypto-argon2 contributors'
   s.platform       = :ios, '13.4'
   s.swift_version  = '5.4'
